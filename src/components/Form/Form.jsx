@@ -14,7 +14,7 @@ export const Form = () => {
       name: e.target.elements.name.value,
       number: e.target.elements.number.value,
     };
-    dispatch(addContact(form));
+    // dispatch(addContact(form));
   };
 
   return (
