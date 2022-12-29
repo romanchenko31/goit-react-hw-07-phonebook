@@ -1,0 +1,18 @@
+.title {
+  text-align: center;
+}
+.form {
+  width: 250px;
+  text-align: center;
+  margin: 0 auto;
+  background: #e0e0e0;
+  padding: 20px;
+}
+.label {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+.button {
+  display: inline-block;
+}
